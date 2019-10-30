@@ -25,3 +25,8 @@ Build MNIST-M dataset: MNIST-M dataset consists of MNIST digits blended with ran
 
 ![Alt text](images/DNS_MNIST_MNISTM.png?raw=true "Domain_Adaptation")
 
+### Decoder Reconstracted Images
+![Alt text](images/source.png?raw=true )
+![Alt text](images/reconstracted_source.png?raw=true )
+![Alt text](images/target?raw=true )
+![Alt text](images/reconstracted_target.png?raw=true )
