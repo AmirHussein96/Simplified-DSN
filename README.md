@@ -4,7 +4,8 @@ This is a simplified implementation of the popular "[Domain Separation Neural Ne
 
 Tested with TensorFlow=1.14.0 and Python 3.6.
 ## Model
-(images/DSN.png)
+![Alt text](images/DSN.png?raw=true "Title")
+
 
 ## MNIST Experiments
 
