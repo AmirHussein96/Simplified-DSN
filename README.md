@@ -28,5 +28,6 @@ Build MNIST-M dataset: MNIST-M dataset consists of MNIST digits blended with ran
 ### Decoder Reconstracted Images
 ![Alt text](images/source.png?raw=true )
 ![Alt text](images/reconstracted_source.png?raw=true )
+<br/>
 ![Alt text](images/target.png?raw=true )
 ![Alt text](images/reconstracted_target.png?raw=true )
