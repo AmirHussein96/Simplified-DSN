@@ -1,7 +1,6 @@
 # Simplified-DSN
 
-This is a simplified implementation of the popular "[Domain Separation Neural Network](https://arxiv.org/abs/1608.06019) in Tensorflow. This work is just a simplification of the official implementation see "https://github.com/tensorflow/models/tree/master/research/domain_adaptation". This is a humble attempt to simplify the official implementation that includes a lot of reproducability difficulties as were reported since it depends on Linux binaries and Bazel.
-
+This is a simplified implementation of the popular "[Domain Separation Neural Network](https://arxiv.org/abs/1608.06019) in Tensorflow. This work is just a humble attempt to simplify the official implementation see "https://github.com/tensorflow/models/tree/master/research/domain_adaptation". 
 
 Tested with TensorFlow=1.14.0 and Python 3.6.
 
