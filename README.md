@@ -4,7 +4,7 @@ This is a simplified implementation of the popular "[Domain Separation Neural Ne
 
 Tested with TensorFlow=1.14.0 and Python 3.6.
 ## Model
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+[[https://github.com/AmirHussein96/Simplified-DSN/blob/master/images/DSN.png|alt=octocat]]
 
 ## MNIST Experiments
 
