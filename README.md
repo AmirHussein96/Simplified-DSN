@@ -1,6 +1,8 @@
 # Simplified-DSN
 
-This is a simplified implementation of the popular "[Domain Separation Neural Network](https://arxiv.org/abs/1608.06019) in Tensorflow. This work is just a humble attempt to simplify the official implementation see "https://github.com/tensorflow/models/tree/master/research/domain_adaptation". All main functions including encoders and the shared decoder was borrowed from the DSN official implementation. Big part of this implementation was inspired by the Domain Adaptation Neural Network official implementatio see "https://github.com/pumpikano"
+This is a simplified implementation of the popular "[Domain Separation Neural Network](https://arxiv.org/abs/1608.06019) using Tensorflow. This work is just a humble attempt to simplify the official implementation see "https://github.com/tensorflow/models/tree/master/research/domain_adaptation", since there were several issues reported on the github and I faced them as well. After all it is our duty as engineers and future scientists to make people life easier and better, don't you think so? XD. 
+<br/>
+The main code parts including loss functions, encoders and the shared decoder were borrowed from the DSN official implementation. Big part of this implementation was inspired by the Domain Adaptation Neural Network official implementatio see "https://github.com/pumpikano". 
 
 Tested with TensorFlow=1.14.0 and Python 3.6.
 ## DSN_Model
@@ -25,9 +27,16 @@ Build MNIST-M dataset: MNIST-M dataset consists of MNIST digits blended with ran
 
 ![Alt text](images/DNS_MNIST_MNISTM.png?raw=true "Domain_Adaptation")
 
-### Decoder Reconstracted Images
+### Decoder Reconstructed Images
 ![Alt text](images/source.png?raw=true )
 ![Alt text](images/reconstracted_source.png?raw=true )
 <br/>
 ![Alt text](images/target.png?raw=true )
 ![Alt text](images/reconstracted_target.png?raw=true )
+
+## Contribution
+
+It would be great to add other experiments to this repository. Feel free to make a PR if you decide to recreate other results from the papers or new experiments entirely.
+
+## Contact
+In case you faced any issues or you found a bug feel free to contact me at "anh21@mail.aub.edu"
