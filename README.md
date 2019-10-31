@@ -39,4 +39,4 @@ Build MNIST-M dataset: MNIST-M dataset consists of MNIST digits blended with ran
 It would be great to add other experiments to this repository. Feel free to make a PR if you decide to recreate other results from the papers or new experiments entirely.
 
 ## Contact
-In case you faced any issues or you found a bug feel free to contact me at "anh21@mail.aub.edu"
+In case you faced any issues or found any bugs feel free to contact me at "anh21@mail.aub.edu"
